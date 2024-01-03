@@ -9,6 +9,18 @@
   
 | Course | Prework |
 |:------:|:-------:|
-| [IOS101](IOS101)| [Prework](IOS101-Prework)|
-[![Icon](https://img.icons8.com/?size=50&id=Tm8zgGhX0ykn&format=png)](IOS101/IOS101-Prework)
+| [IOS101](IOS101) | [![](https://img.icons8.com/?size=32&id=Tm8zgGhX0ykn&format=png)](IOS101/IOS101-Prework) |
+
 </div>
+
+
+## Repository Structure
+
+```swift
+Codepath
+┗━ Course // Various pathway courses
+   ┣━ Assignments
+   ┣━ Prework
+   ┃  ┗━ README.md // Explains the prework
+   ┗━ README.md // About the class & personal goals
+```
