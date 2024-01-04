@@ -7,9 +7,9 @@
 <div align="center" style="inline-block"> 
 <br/>
   
-| Course | Prework |
-|:------:|:-------:|
-| [IOS101](IOS101) | [![](https://img.icons8.com/?size=32&id=Tm8zgGhX0ykn&format=png)](IOS101/IOS101-Prework) |
+| Semester | Course | Prework |
+|:--------:|:------:|:-------:|
+|Spring 2024| [IOS101](IOS101) | [![](https://img.icons8.com/?size=32&id=Tm8zgGhX0ykn&format=png)](IOS101/IOS101-Prework) |
 
 </div>
 
