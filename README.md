@@ -7,9 +7,9 @@
 <div align="center" style="inline-block"> 
 <br/>
   
-| Semester | Course | Prework |
-|:--------:|:------:|:-------:|
-|Spring 2024| [IOS101](IOS101) | [![](https://img.icons8.com/?size=32&id=Tm8zgGhX0ykn&format=png)](IOS101/ios101-prework) |
+|    SEMESTER   |      COURSE      |                                       PREWORK                                      |
+|:-------------:|:----------------:|:----------------------------------------------------------------------------------:|
+| `Spring 2024` | [IOS101](IOS101) | [![](https://img.icons8.com/?size=64&id=103813&format=png)](IOS101/ios101-prework) |
 
 </div>
 
@@ -24,3 +24,6 @@ Codepath
    ┃  ┗━ README.md // Explains the prework
    ┗━ README.md // About the class & personal goals
 ```
+
+<!-- https://img.icons8.com/?size=64&id=Tm8zgGhX0ykn&format=png -->
+<!-- https://www.tablesgenerator.com/markdown_tables -->
